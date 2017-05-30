@@ -1,6 +1,6 @@
 {
   "name": "mongoose-seed-plus",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Seed data population for Mongoose",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christopherfouquier/mongoose-seed-plus.git"
+    "url": "git@github.com:poloop/mongoose-seed-plus.git"
   },
   "keywords": [
     "mongoose",
@@ -22,11 +22,12 @@
     "MEAN.io"
   ],
   "author": "Christopher Fouquier <christopher.fouquier@gmail.com>",
+  "contributor": "Paul Long <poloop@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/christopherfouquier/mongoose-seed-plus/issues"
+    "url": "https://github.com/poloop/mongoose-seed-plus/issues"
   },
-  "homepage": "https://github.com/christopherfouquier/mongoose-seed-plus#readme",
+  "homepage": "https://github.com/poloop/mongoose-seed-plus#readme",
   "dependencies": {
     "async": "~1.2.0",
     "chalk": "~1.0.0",
